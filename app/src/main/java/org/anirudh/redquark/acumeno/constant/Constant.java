@@ -6,5 +6,5 @@ package org.anirudh.redquark.acumeno.constant;
 
 public class Constant {
 
-    public static final String CLOUD_API_KEY = "AIzaSyBBiLVODCQ53gv1NT7KoIgODa6w_zqCzj8";
+    public static final String CLOUD_API_KEY = "<Your-Cloud-API-Key>";
 }
