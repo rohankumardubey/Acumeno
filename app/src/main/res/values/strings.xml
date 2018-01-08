@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acumeno</string>
+    <string name="browse_text">Browse</string>
+    <string name="analyze_text">Analyze</string>
+</resources>
